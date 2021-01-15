@@ -3,7 +3,7 @@
  $_CONFIG = array (
   'firstrun' => false,
   'salt' => '0a92844fd24b1f8969d958c90c68c0cb',
-  'script_url' => 'http://localhost/vfm/',
+  'script_url' => 'http://207.246.67.238/virtue-cloud',
   'session_name' => 'vfm_1480062683',
   'admin_color_scheme' => 'green',
   'align_logo' => 'center',

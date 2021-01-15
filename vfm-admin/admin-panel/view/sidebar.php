@@ -1,16 +1,16 @@
 <?php
 /**
- * VFM - veno file manager administration sidebar
+ * VFM - virtue-One file manager: admin-panel/view/admin-head-apperarance.php
+ * main appearance setting process
  *
- * PHP version >= 5.3
+ * PHP version >= 7. 3
  *
  * @category  PHP
- * @package   VenoFileManager
- * @author    Nicola Franchini <support@veno.it>
- * @copyright 2013 Nicola Franchini
- * @license   Exclusively sold on CodeCanyon
- * @link      http://filemanager.veno.it/
+ * @package   Virtue File Manager
+ * @author    Sylvester Umole
+ * 
  */
+
 $adminurl = $setUp->getConfig('script_url')."vfm-admin";
 if (!$activesec || $activesec == 'home') {
     $open = ' active';

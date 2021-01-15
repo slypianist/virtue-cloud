@@ -1,16 +1,14 @@
 <?php
 /**
- * VFM - veno file manager: admin-panel/view/admin-head-translations.php
- * main translations setting process
+ * VFM - virtue file manager: admin-panel/view/admin-head-apperarance.php
+ * main appearance setting process
  *
- * PHP version >= 5.3
+ * PHP version >= 7. 3
  *
  * @category  PHP
- * @package   VenoFileManager
- * @author    Nicola Franchini <support@veno.it>
- * @copyright 2013 Nicola Franchini
- * @license   Exclusively sold on CodeCanyon: https://codecanyon.net/item/veno-file-manager-host-and-share-files/6114247
- * @link      http://filemanager.veno.it/
+ * @package   Virtue File Manager
+ * @author    Sylvester Umole
+ * 
  */
 
 if ($get_action == 'update') {

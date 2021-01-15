@@ -1,6 +1,6 @@
 <?php
 /**
- * VFM - veno file manager: admin-panel/view/dashboard/security.php
+ * VFM - virtue-one file manager: admin-panel/view/dashboard/security.php
  * administration registration block
  *
  * @package VenoFileManager
